@@ -56,7 +56,7 @@ The application's repository may require alterations to lines of codes if used w
 
 1. To run this application, the user should fork the repository onto their own GitHub account. In the user's repository, the user should copy the link and clone the repository onto their local system. Navigate to the repository folder using the terminal and run command line `npm install`
    - `$ cd ../lystr`
-   - $ `npm install`
+   - `$ npm install`
 
 <br />
 

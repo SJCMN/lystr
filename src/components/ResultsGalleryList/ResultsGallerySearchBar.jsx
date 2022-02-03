@@ -11,7 +11,6 @@ function ResultsGallerySearchBar() {
         display: 'flex',
         flexGrow: 1,
         width: '90%',
-
         margin: 3,
       }}
     >
